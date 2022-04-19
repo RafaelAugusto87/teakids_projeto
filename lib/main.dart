@@ -27,7 +27,7 @@ void main() => runApp(
           't7': (context) => Cadastro(),
           't8': (context) => const Relatorio(),
           't9': (context) => Sobre(),
-          //'t10': (context) => const Recuperar(),
+          't10': (context) => const Recuperar(),
           //terá a criação da tela de relatório (pensar em como será essa telá, para quem mandará)
         },
       ),
